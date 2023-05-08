@@ -33,7 +33,7 @@ body {
     text-transform: uppercase;
 }
 
-input {
+.header .nav input {
     display: none;
 }
 
